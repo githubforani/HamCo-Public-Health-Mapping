@@ -1,6 +1,5 @@
 ############################################################
 # HAMILTON COUNTY, INDIANA - Public Health Data Mapping
-# FINAL FULL SCRIPT WITH ALL FIXES
 ############################################################
 
 # Load libraries
